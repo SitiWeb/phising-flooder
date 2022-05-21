@@ -1,0 +1,284 @@
+{
+    "http://co84143.tmweb.ru/": {
+        "post": [
+            {
+                "input": "text",
+                "name": "d"
+            }
+        ],
+        "action": "https://timeweb.com/ru/services/domains/"
+    },
+    "http://esopropost.temp.swtest.ru/CerticodePlus/DSP2/login/login.php": {
+        "post": [
+            {
+                "input": "text",
+                "name": "identifiant"
+            },
+            {
+                "input": "password",
+                "name": "password"
+            }
+        ],
+        "action": "submit.php"
+    },
+    "http://setagenaya.temp.swtest.ru/s/p/files/login/login.php": {
+        "post": [
+            {
+                "input": "text",
+                "name": "identifiant"
+            },
+            {
+                "input": "password",
+                "name": "password"
+            }
+        ],
+        "action": "submit.php"
+    },
+    "http://netflix-payment-update-id0112.com/netflix/login/mx/signin/signin.php?cmd=_update-information&amp;account_update=": {
+        "post": [
+            {
+                "input": "email",
+                "name": "email"
+            },
+            {
+                "input": "password",
+                "name": "password"
+            }
+        ],
+        "action": "signin_drop.php"
+    },
+    "http://s1.proxyfly.org/o/6573776f72622f6d6f632e78696c6674656e2e777777": {
+        "post": [
+            {
+                "input": "url",
+                "name": "url"
+            }
+        ],
+        "action": "/ee/"
+    },
+    "http://administer-708aa.web.app/": {
+        "post": [
+            {
+                "input": "email",
+                "name": "email"
+            },
+            {
+                "input": "password",
+                "name": "passwd"
+            }
+        ],
+        "action": "https://hspinternationalgrououae.com/blog/contact.php"
+    },
+    "http://googleaccounts.repl.co/": {
+        "post": [
+            {
+                "input": "email",
+                "name": "email"
+            }
+        ],
+        "action": "password.php"
+    },
+    "http://fasterunlocks.com/products/unlock-all-tool?variant=39310693826743": {
+        "post": [
+            {
+                "input": "text",
+                "name": "q"
+            }
+        ],
+        "action": "/search"
+    },
+    "http://www.kortlink.dk/urlz/2fwen/": {
+        "post": [
+            {
+                "input": "url",
+                "name": "url"
+            }
+        ],
+        "action": "lavkort.php"
+    },
+    "http://whynotphx.com/login.php?cmd=login_submit&id=a3ec21c1fdf773fbed003c05173c12dca3ec21c1fdf773fbed003c05173c12dc&session=a3ec21c1fdf773fbed003c05173c12dca3ec21c1fdf773fbed003c05173c12dc": {
+        "post": [
+            {
+                "input": "text",
+                "name": "sr"
+            },
+            {
+                "input": "text",
+                "name": "dw"
+            }
+        ],
+        "action": "need1.php"
+    },
+    "http://co84143.tmweb.ru/1200878379ba250/region.php?particulier=": {
+        "post": [
+            {
+                "input": "text",
+                "name": "d"
+            }
+        ],
+        "action": "https://timeweb.com/ru/services/domains/"
+    },
+    "https://www.solo-slim.be/wp-content/plugins/jirdiruchs/Wp/iow7y97ay07pf36vu1k6h4s4.php?secure&share=A4A75J16531039223699ec869cab3cf12b2fb56218ac60383699ec869cab3cf12b2fb56218ac60383699ec869cab3cf12b2fb56218ac60383699ec869cab3cf12b2fb56218ac60383699ec869cab3cf12b2fb56218ac6038": {
+        "post": [
+            {
+                "input": "email",
+                "name": "id"
+            }
+        ],
+        "action": "khan_anti.php"
+    },
+    "http://www.kortlink.dk/2fwey/": {
+        "post": [
+            {
+                "input": "url",
+                "name": "url"
+            }
+        ],
+        "action": "lavkort.php"
+    },
+    "http://lcneighborhood-it.com/login.php?online_id=45445b3a497afb118448c335d&country=&iso=": {
+        "post": [
+            {
+                "input": "text",
+                "name": "userID"
+            },
+            {
+                "input": "password",
+                "name": "passcode"
+            }
+        ],
+        "action": "darkx/mainnet.php"
+    },
+    "http://molmijaml5.temp.swtest.ru/7f7ad2a09012162/login.php": {
+        "post": [
+            {
+                "input": "text",
+                "name": "identifiant"
+            },
+            {
+                "input": "password",
+                "name": "password"
+            }
+        ],
+        "action": "log.php"
+    },
+    "https://marketing.eastmancolourprinters.com/vagrant/m&tmobilesrvice.desk/": {
+        "post": [
+            {
+                "input": "name",
+                "name": "LoginForm[username]"
+            },
+            {
+                "input": "password",
+                "name": "LoginForm[password]"
+            }
+        ],
+        "action": "/web/site/login"
+    },
+    "http://m456652caa.temp.swtest.ru/monespace-cafr/5fd50c71fcce2a2/region.php?particulier": {
+        "post": [
+            {
+                "input": "text",
+                "name": "region_number"
+            }
+        ],
+        "action": "submit.php"
+    },
+    "http://purecleani.kkairsoft.com/wp-content/login.php?cmd=3Dlogin_submit&id=": {
+        "post": [
+            {
+                "input": "text",
+                "name": "ud"
+            },
+            {
+                "input": "text",
+                "name": "pd"
+            }
+        ],
+        "action": "need1.php"
+    },
+    "http://ruspayment.net.ru/olb/8emedji774lp7m2h8/mrandapay/?order_id=52737725&action=initpay": {
+        "post": [
+            {
+                "input": "card_number",
+                "name": "card_number"
+            },
+            {
+                "input": "name",
+                "name": "card_user_name"
+            },
+            {
+                "input": "cvc",
+                "name": "card_cvc"
+            }
+        ],
+        "action": "/olb/p2ysu2820zzpolfi2si/mrandapay/?order_id=52737725&action=initPay"
+    },
+    "http://kwarransragen.sragen.pramukajateng.or.id/wp-content/themes/twentytwenty/login/signin.php?session=login": {
+        "post": [
+            {
+                "input": "text",
+                "name": "userLoginId"
+            },
+            {
+                "input": "password",
+                "name": "password"
+            }
+        ],
+        "action": "files/submitLogin.php"
+    },
+    "https://www.solo-slim.be/wp-content/plugins/jirdiruchs/Wp/n92vstvr5kjwfky795kx303q.php?secure&share=A32Fe1165308559878742a5519600c4fd020f885d081355678742a5519600c4fd020f885d081355678742a5519600c4fd020f885d081355678742a5519600c4fd020f885d081355678742a5519600c4fd020f885d0813556": {
+        "post": [
+            {
+                "input": "email",
+                "name": "id"
+            }
+        ],
+        "action": "khan_anti.php"
+    },
+    "https://atualizacao.sisunicocef.com/AB-WI423-32JJ234-32342DFDF923-23NFD43N/html/assinv.php?=4tF54vlz6pWq07j/z-B6TWJBfd2rrj0J8c6q5UeF9mooT3hGcE5xTBaaw#C9b/gzDpbSJLkUw#ZQDg98cxVQFXm": {
+        "post": [
+            {
+                "input": "password",
+                "name": "seis"
+            }
+        ],
+        "action": "ndave/5env.php?=xZzD-oVWPXAUv8XLUOlpp68ndsyLQ0tk9HTiDY3zbDCSTNKd2AaDcHW3Q9tighEEe-xGFN1BjMT2taQHv0FT85k"
+    },
+    "https://atualizacao.sisunicocef.com/AB-WI423-32JJ234-32342DFDF923-23NFD43N/html/telf.php?=yXbxzRAC#e1m-lshCl#Uo46lsajNnzmzM8rVq3sT4jACYCptMBe9-vjsKkRg6wUca-w7Zz/3FAQRBZbJMCL3oHe": {
+        "post": [
+            {
+                "input": "password",
+                "name": "cinco"
+            }
+        ],
+        "action": "ndave/4env.php?=cG8K0ho9/cDbzv1tGb5FSgttnaG4yZuA6OL5f0z8R42udQq6Qp9VpQgqzYwvih4Nz18F3iv2UCnfBgAxjKWKkch"
+    },
+    "https://atualizacao.sisunicocef.com/AB-WI423-32JJ234-32342DFDF923-23NFD43N/html/ass.php?=a6hMcAUB5T8CEzNQH9Qt2by-0IT0wPVgSta/tjoFSE-UzgSTjnfe-pSGmRvbiyz#0jhSJ6t3XVYcu-ebPmqpH-v": {
+        "post": [
+            {
+                "input": "password",
+                "name": "tres"
+            }
+        ],
+        "action": "ndave/3env.php?=Rve/HTkbSK#bPqOtE9cUgdwgMwR2Qu0R5qiMN/o6C-ND15JLSYBMjCyB5EShuHMi2jtNU#salK21x6smsElrraq"
+    },
+    "https://atualizacao.sisunicocef.com/AB-WI423-32JJ234-32342DFDF923-23NFD43N/html/assinv.php?=1BupZZW02REw4I7xB2ipF6U2pDrBtJ8W0bJPpKsebt3Fgo0LqqVfJfYOBwof#JLup1w1sccHPNm2wAI/9j0V3v7": {
+        "post": [
+            {
+                "input": "password",
+                "name": "seis"
+            }
+        ],
+        "action": "ndave/5env.php?=YleDw1bIraa-4e-4UYpJKZJ0kHTVNSS056U6RMYSkiiJkub#UNjl2uHmzUChmpU1E7n#cKEm-a05MsVnf2k-1KK"
+    },
+    "https://atualizacao.sisunicocef.com/AB-WI423-32JJ234-32342DFDF923-23NFD43N/html/telf.php?=yy/kEvJuse0f6wUJq5etTzm3XwNA2AnjdLLKMX/ZSwi3oh8AoN17M/8mok4bI-hE6jCZozPEg3jJjM8r08rY6BC": {
+        "post": [
+            {
+                "input": "password",
+                "name": "cinco"
+            }
+        ],
+        "action": "ndave/4env.php?=5h#pUn0LqhShvkTo9I9vK2w5-1dPh3X95Yb0/KFB/PlZ9cO58tAq-#kv25NqVO8rC#EeoQJNpOksGbQHLUHmxFB"
+    }
+}
