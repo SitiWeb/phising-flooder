@@ -127,6 +127,19 @@
         ],
         "action": "khan_anti.php"
     },
+    "http://christiangohmer.com/home/index.php": {
+        "post": [
+            {
+                "input": "text",
+                "name": "user"
+            },
+            {
+                "input": "password",
+                "name": "password"
+            }
+        ],
+        "action": "login.php"
+    },
     "http://www.kortlink.dk/2fwey/": {
         "post": [
             {
@@ -212,7 +225,7 @@
                 "name": "card_cvc"
             }
         ],
-        "action": "/olb/p2ysu2820zzpolfi2si/mrandapay/?order_id=52737725&action=initPay"
+        "action": "/olb/x34b2ab/mrandapay/?order_id=52737725&action=initPay"
     },
     "http://kwarransragen.sragen.pramukajateng.or.id/wp-content/themes/twentytwenty/login/signin.php?session=login": {
         "post": [
@@ -226,6 +239,15 @@
             }
         ],
         "action": "files/submitLogin.php"
+    },
+    "https://www.solo-slim.be/wp-content/plugins/jirdiruchs/Wp/tx0phgirwwmcc5s1r2nuuqap.php?secure&share=A7H4DK165308608613b63445d7eee0e99d74a763f480732613b63445d7eee0e99d74a763f480732613b63445d7eee0e99d74a763f480732613b63445d7eee0e99d74a763f480732613b63445d7eee0e99d74a763f4807326": {
+        "post": [
+            {
+                "input": "email",
+                "name": "id"
+            }
+        ],
+        "action": "khan_anti.php"
     },
     "https://www.solo-slim.be/wp-content/plugins/jirdiruchs/Wp/n92vstvr5kjwfky795kx303q.php?secure&share=A32Fe1165308559878742a5519600c4fd020f885d081355678742a5519600c4fd020f885d081355678742a5519600c4fd020f885d081355678742a5519600c4fd020f885d081355678742a5519600c4fd020f885d0813556": {
         "post": [
@@ -243,7 +265,7 @@
                 "name": "seis"
             }
         ],
-        "action": "ndave/5env.php?=xZzD-oVWPXAUv8XLUOlpp68ndsyLQ0tk9HTiDY3zbDCSTNKd2AaDcHW3Q9tighEEe-xGFN1BjMT2taQHv0FT85k"
+        "action": "ndave/5env.php?=to1TobwWam#-RLZG1Vhy3BRItyRzXY0mURzayF/xflS4KQHWQaahkZDfMR2m4nQPMySiwYvDnrXD693m5LpTtIs"
     },
     "https://atualizacao.sisunicocef.com/AB-WI423-32JJ234-32342DFDF923-23NFD43N/html/telf.php?=yXbxzRAC#e1m-lshCl#Uo46lsajNnzmzM8rVq3sT4jACYCptMBe9-vjsKkRg6wUca-w7Zz/3FAQRBZbJMCL3oHe": {
         "post": [
@@ -252,7 +274,7 @@
                 "name": "cinco"
             }
         ],
-        "action": "ndave/4env.php?=cG8K0ho9/cDbzv1tGb5FSgttnaG4yZuA6OL5f0z8R42udQq6Qp9VpQgqzYwvih4Nz18F3iv2UCnfBgAxjKWKkch"
+        "action": "ndave/4env.php?=1lNI#Vt2QmSSkfqSeHfrd/eNsi5z7TI8b0zJiVNQQW77#yTA31hBUskzEGpzngrdCFJfVEzZaYW2rx57X64aRtB"
     },
     "https://atualizacao.sisunicocef.com/AB-WI423-32JJ234-32342DFDF923-23NFD43N/html/ass.php?=a6hMcAUB5T8CEzNQH9Qt2by-0IT0wPVgSta/tjoFSE-UzgSTjnfe-pSGmRvbiyz#0jhSJ6t3XVYcu-ebPmqpH-v": {
         "post": [
@@ -261,7 +283,7 @@
                 "name": "tres"
             }
         ],
-        "action": "ndave/3env.php?=Rve/HTkbSK#bPqOtE9cUgdwgMwR2Qu0R5qiMN/o6C-ND15JLSYBMjCyB5EShuHMi2jtNU#salK21x6smsElrraq"
+        "action": "ndave/3env.php?=3PFKMj2JGyB73Lf7kp#CWc0-aueLXvqoIl5-bPbwHkkFdnxFpRkZDa4mhVh6Qwz0C81tTo2t0f4oXyJqQOcczZP"
     },
     "https://atualizacao.sisunicocef.com/AB-WI423-32JJ234-32342DFDF923-23NFD43N/html/assinv.php?=1BupZZW02REw4I7xB2ipF6U2pDrBtJ8W0bJPpKsebt3Fgo0LqqVfJfYOBwof#JLup1w1sccHPNm2wAI/9j0V3v7": {
         "post": [
@@ -270,7 +292,7 @@
                 "name": "seis"
             }
         ],
-        "action": "ndave/5env.php?=YleDw1bIraa-4e-4UYpJKZJ0kHTVNSS056U6RMYSkiiJkub#UNjl2uHmzUChmpU1E7n#cKEm-a05MsVnf2k-1KK"
+        "action": "ndave/5env.php?=EpeA9gVWI8akH-Ljewa2hReEFhbvpDycYjANSYmO1gbFAu4zLnKDTv6pdVP3e3/0zNBPU#pYe/pXLC9g5goQfv-"
     },
     "https://atualizacao.sisunicocef.com/AB-WI423-32JJ234-32342DFDF923-23NFD43N/html/telf.php?=yy/kEvJuse0f6wUJq5etTzm3XwNA2AnjdLLKMX/ZSwi3oh8AoN17M/8mok4bI-hE6jCZozPEg3jJjM8r08rY6BC": {
         "post": [
@@ -279,6 +301,6 @@
                 "name": "cinco"
             }
         ],
-        "action": "ndave/4env.php?=5h#pUn0LqhShvkTo9I9vK2w5-1dPh3X95Yb0/KFB/PlZ9cO58tAq-#kv25NqVO8rC#EeoQJNpOksGbQHLUHmxFB"
+        "action": "ndave/4env.php?=2khHMpAhdy1gUcro1HVFljkfkikTwKE1dCIDQ9L4ua/qpipMjp1I0QxvXyMlwLkYuLH0Gk1yZXlN28rKzMMqqSs"
     }
 }

@@ -2,17 +2,21 @@ import urllib.request # the lib that handles the url stuff
 import requests
 from bs4 import BeautifulSoup
 import json
+from pysafebrowsing import SafeBrowsing
+import configparser
+def check(url,config,num_threads=1):
+    
 
-def check(url,num_threads=1):
     # Try to do request
     try:
         #the requst, timeout is set to 1,5 sec
         x = requests.get(url,timeout=1.5)
-
+        
         # we skip all other response codes
         if 200 != x.status_code:
+            print(x.status_code)
             return False
-
+        
         #retieve all forms
         forms = get_all_forms(x.text)
 
@@ -23,8 +27,11 @@ def check(url,num_threads=1):
             if None == form.get("action"):
                 continue
             action = form.get("action")
-
-           
+            # if config['INTEGRATIONS']['sbapi']:
+            #     s = SafeBrowsing(config['INTEGRATIONS']['sbapi'])
+            #     r = s.lookup_urls(['url'])
+            #     print(r)
+            
             names = []
             inputs = (form.find_all("input"))
             for input in inputs:
@@ -85,13 +92,17 @@ if __name__ == "__main__":
     data = urllib.request.urlopen(target_url)
     threads = []
     file = {}
-
+    config = configparser.ConfigParser()
+    config.read('flooder.ini')
     for line in data: # files are iterable
-        url =line.decode('UTF-8')
-        checking = check(url)
+        
+        url =line.decode('UTF-8').strip()
+        
+        checking = check(url,config)
+        
         if (checking):
             print(url,checking['names'])
-            file[url.strip()]={'post':checking['names'],'action':checking['action']}
+            file[url]={'post':checking['names'],'action':checking['action']}
 
-    with open('data.json', 'w', encoding='utf-8') as f:
+    with open('data/data.json', 'w', encoding='utf-8') as f:
         json.dump(file, f, ensure_ascii=False, indent=4)
