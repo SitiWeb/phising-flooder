@@ -1,5 +1,4 @@
-
-# Project Title
+# Phising FLooder
 
 A simple tampermonkey JS script that floods most phising websites forms. The phisher's panel will get flooded with fake data making it harder to scam people.
 
