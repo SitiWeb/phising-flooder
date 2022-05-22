@@ -7,7 +7,7 @@ def show_entry_fields():
         webbrowser.open_new_tab(e1.get())
 
 def open_browser():
-    with urllib.request.urlopen("https://raw.githubusercontent.com/SitiWeb/phising-flooder/main/data.json") as url:
+    with urllib.request.urlopen("https://raw.githubusercontent.com/SitiWeb/phising-flooder/main/data/data.json") as url:
         data = json.loads(url.read().decode())
         for key, value in data.items():
             webbrowser.open_new_tab(key)
